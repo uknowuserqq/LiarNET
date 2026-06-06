@@ -10,5 +10,5 @@ Herramienta de escaneo  de redes
 # Resultados
 
 
-<img width="1366" height="768" alt="Captura de pantalla (71)" src="https://github.com/user-attachments/assets/13a7e9da-471f-431e-87f7-a62d4016b352" />
+<img width="1328" height="713" alt="Captura de pantalla (71)" src="https://github.com/user-attachments/assets/57eb06f8-84d1-4187-bfdf-1e9492f19ea8" />
 
